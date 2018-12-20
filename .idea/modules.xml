@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcolud/center/center.iml" filepath="$PROJECT_DIR$/springcolud/center/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/center1/center1.iml" filepath="$PROJECT_DIR$/springcolud/center1/center1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/client/client.iml" filepath="$PROJECT_DIR$/springcolud/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/consulclient/consulclient.iml" filepath="$PROJECT_DIR$/springcolud/consulclient/consulclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/consulserver/consulserver.iml" filepath="$PROJECT_DIR$/springcolud/consulserver/consulserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/consulserver1/consulserver1.iml" filepath="$PROJECT_DIR$/springcolud/consulserver1/consulserver1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmq/customer/customer.iml" filepath="$PROJECT_DIR$/testmq/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/haiyuproject.iml" filepath="$PROJECT_DIR$/.idea/haiyuproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmq/order/order.iml" filepath="$PROJECT_DIR$/testmq/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmq/producer/producer.iml" filepath="$PROJECT_DIR$/testmq/producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/server/server.iml" filepath="$PROJECT_DIR$/springcolud/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/server2/server2.iml" filepath="$PROJECT_DIR$/springcolud/server2/server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/springcolud.iml" filepath="$PROJECT_DIR$/springcolud/springcolud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmq/testmq.iml" filepath="$PROJECT_DIR$/testmq/testmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcolud/zuul/zuul.iml" filepath="$PROJECT_DIR$/springcolud/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

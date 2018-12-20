@@ -1,0 +1,11 @@
+server:
+  port: 8503
+spring:
+  application:
+    name: spring-cloud-consul-client
+  cloud:
+    consul:
+      discovery:
+        register: false
+      host: 127.0.0.1
+      port: 8500

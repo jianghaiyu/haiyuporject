@@ -1,0 +1,11 @@
+server:
+  port: 8501
+spring:
+  application:
+    name: spring-cloud-consul-server
+  cloud:
+    consul:
+      discovery:
+        serviceName: service-producer
+      host: 127.0.0.1
+      port: 8500

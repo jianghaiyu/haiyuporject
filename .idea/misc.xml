@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springcolud/consulserver/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/server2/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/consulserver1/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/consulclient/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/center1/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/center/pom.xml" />
+        <option value="$PROJECT_DIR$/springcolud/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/mq/pom.xml" />
+        <option value="$PROJECT_DIR$/testmq/pom.xml" />
+        <option value="$PROJECT_DIR$/testmq/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/testmq/customer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

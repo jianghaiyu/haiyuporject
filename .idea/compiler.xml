@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="center" />
+        <module name="center1" />
+        <module name="client" />
+        <module name="consulclient" />
+        <module name="consulserver" />
+        <module name="consulserver1" />
+        <module name="customer" />
+        <module name="mq" />
+        <module name="order" />
+        <module name="producer" />
+        <module name="server" />
+        <module name="server2" />
+        <module name="springcolud" />
+        <module name="zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="center" target="1.8" />
+      <module name="center1" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="consulclient" target="1.8" />
+      <module name="consulserver" target="1.8" />
+      <module name="consulserver1" target="1.8" />
+      <module name="customer" target="1.8" />
+      <module name="mq" target="1.5" />
+      <module name="mqcustomer" target="1.8" />
+      <module name="order" target="1.5" />
+      <module name="producer" target="1.8" />
+      <module name="rabbitmqcustomer" target="1.8" />
+      <module name="rabbitmqproducer" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="server2" target="1.8" />
+      <module name="springcolud" target="1.5" />
+      <module name="testmq" target="1.5" />
+      <module name="zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="center" options="-parameters" />
+      <module name="center1" options="-parameters" />
+      <module name="client" options="-parameters" />
+      <module name="consulclient" options="-parameters" />
+      <module name="consulserver" options="-parameters" />
+      <module name="consulserver1" options="-parameters" />
+      <module name="customer" options="-parameters" />
+      <module name="mqcustomer" options="-parameters" />
+      <module name="producer" options="-parameters" />
+      <module name="rabbitmqcustomer" options="-parameters" />
+      <module name="rabbitmqproducer" options="-parameters" />
+      <module name="server" options="-parameters" />
+      <module name="server2" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
