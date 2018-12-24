@@ -18,7 +18,7 @@ import org.springframework.context.annotation.Bean;
 @EnableHystrix
 @EnableHystrixDashboard
 @EnableCircuitBreaker
-@MapperScan("com.haiyu.dao")
+//@MapperScan("com.haiyu.client.dao")
 public class ClientApplication {
 
     public static void main(String[] args) {

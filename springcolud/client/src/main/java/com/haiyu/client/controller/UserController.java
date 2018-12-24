@@ -7,13 +7,16 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Map;
+
 @RestController
 public class UserController {
     @Autowired
     private UserServer userServer;
 
     @PostMapping("/finduserbyid")
-    public User findUserByid(@RequestBody Integer id){
+    public User findUserByid(@RequestBody Map map){
+         int id = (int)map.get("id");
         return userServer.findUserByid(id);
     }
 }
